@@ -1,4 +1,4 @@
-package pattern;
+package Sample;
 
 public class patternex1 {
 	public static void main(String[] args) {
